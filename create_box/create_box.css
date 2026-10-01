@@ -1,0 +1,19 @@
+.one {
+    background-color: black;
+    display:inline;
+    color: white;
+}
+
+.two{
+    background-color: black;
+    display: inline;
+    margin-left: 50px;
+    color: white;
+}
+
+.three {
+    background-color: black;
+    display: inline;
+    margin-left: 50px;
+    color: white;
+}

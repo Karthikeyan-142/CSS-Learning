@@ -1,0 +1,13 @@
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+li,ul,h1 {
+    display: inline;
+}
+
+ul {
+    margin-left: 60%;
+}
